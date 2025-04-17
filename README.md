@@ -12,7 +12,11 @@ this is wifi jammer . you can perform Wi-Fi deauthentication attack
 
 ```
 git clone https://github.com/Flyzone84/Jammer.git
+
 ```
+
+
+## start
 ```
 
 sudo bash wifi-jammer.sh
