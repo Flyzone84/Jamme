@@ -3,6 +3,8 @@ this is wifi jammer . you can perform Wi-Fi deauthentication attack
 
 
 
-#note 
+# note 
 
-this tool only work with wlan0  
+# this tool only work with wlan0  
+
+
