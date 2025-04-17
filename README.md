@@ -22,6 +22,4 @@ git clone https://github.com/Flyzone84/Jammer.git
 sudo bash wifi-jammer.sh
 ```
 
-# Contact:
-
 
